@@ -1,4 +1,4 @@
-# High-Moutain-Asia-GIS-DATA
+# High-Moutain-Asia-GIS-Data
 
 Including extents of the High-Mountain Asia region and the  sub-resions, as well as the main rivers, lakes and glaciers vector data in this region.
 
