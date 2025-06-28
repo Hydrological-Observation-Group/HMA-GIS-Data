@@ -1,7 +1,8 @@
 //////////////////////////////////////////////////////////////
 // Author: xin luo
 // Create: 2024.12.9
-// Description: download era5 climate data. //////////////////////////////////////////////////////////////
+// Description: download era5 climate data. 
+//////////////////////////////////////////////////////////////
 
 
 var region = ee.Geometry.Rectangle([65, 24, 107, 48], 'EPSG:4326', false);
@@ -24,7 +25,6 @@ var imgcol_te = dset.select(['total_evaporation_sum'])
 var te_yearly_sum = imgcol_te.sum().clip(region).multiply(1000); // This computes the sum across the collection
 print(te_yearly_sum)
 
-
 var visual = {
   // bands: t2p,
   min: 0.0,
@@ -35,7 +35,6 @@ var visual = {
     'ffb000', 'ffa400', 'ff4f00', 'ff2500', 'ff0a00', 'ff00ff',
   ]
   };
-
 
 var empty = ee.Image().byte();
 //// outline visualization of the study area.
