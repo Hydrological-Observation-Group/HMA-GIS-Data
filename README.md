@@ -12,12 +12,12 @@ References:
 1. Zhang, Y., Ren, H., Pan, X. (2019). Integration dataset of Tibet Plateau boundary. National Tibetan Plateau Data Center, DOI: 10.11888/Geogra.tpdc.270099. CSTR: 18406.11.Geogra.tpdc.270099. (Data citation)
 2. Zhang, Y.L., Li, B.Y., Zheng, D. (2002). A discussion on the boundary and area of the tibetan plateau in china. Geographical Research.
 3. Zhang, Y.L., Li, B.Y., Liu, L.S., Zheng, D. (2021). Redetermine the region and boundaries of Tibetan Plateau. GEOGRAPHICAL RESEARCH, 40(6), 1543-1553.  
-   ![TP_Boundry](figures/TP_boundaries.png)  
+![TP_Boundry](figures/hma-extent/TP_extent.png)  
 
 ### 1.2. HMA extents (with glacier subregions)
 
 1) Overview of the HMA extents in different researches.  
-   ![HMA_extent](figures/hma_subregions_compare.png)
+![HMA_extent](figures/hma-extent/hma_extent.png)
 
 #### 1.2.1. hma_subregions_brun2017
 
@@ -37,7 +37,6 @@ References:
 
 1) GTN-G. GTN-G Glacier Regions. 2023. doi:10.5904/gtng-glacreg-2023-07.
 2) Link: <https://www.mountcryo.org/datasets/>   
-![HMA_extent](figures/hma_subregions_gtng.png)
 
 #### 1.2.4. Pan-Tibetan Highlands (hma) extents
 
@@ -59,7 +58,8 @@ References:
 Reference:
 
 1. Lehner, B., Grill G. (2013). Global river hydrography and network routing: baseline data and new approaches to study the world’s large river systems. Hydrological Processes, 27(15): 2171–2186.
-   ![Hydro_Basin](figures/hma_hydro_basins.png)
+![Hydro_Basin](figures/hma-extent/hma_hydro_basins.png)
+![Hydro_Basin_levels](figures/hma-extent/hma_hydro_basin_levels.png)
 
 ## 3. Glaciers
 
