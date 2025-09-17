@@ -82,8 +82,8 @@ References
 ![Reservoirs](figures/water-extent/hma_reservoirs.png)
 
 ## To do: 
-Lake height data collection and visualization
-
-
+1. Lake height data collection and visualization
+2. climate data collection and visualization.
+3. in-situ lake level collection and visualization.  
 
 
