@@ -5,14 +5,8 @@ __pycache__/
 **/.DS_Store
 
 ## exceed the limited storage of 50M 
-data/climate/*
-data/dem/*
-data/glacier-extent/*
-data/glacier-height/*
-data/hma-extent/*
-data/in-situ/*
-data/water-extent/*
-data/water-height/*
+data/*
+!data/readme.md
 
 **.pptx
 config.py 
