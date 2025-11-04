@@ -81,6 +81,13 @@ References
 1. Mulligan M, Lehner B, Zarfl C, et al. Global Dam Watch: curated data and tools for management and decision making[J]. Environmental Research: Infrastructure and Sustainability, 2021, 1(3): 033003.
 ![Reservoirs](figures/water-extent/hma_reservoirs.png)
 
+
+## 7. ground observation
+### 7.1 hydrological station for lake water level.  
+![hydro_station](figures/ground-observation/hydro_station_loc.png)
+
+
+
 ## To do: 
 1. Lake height data collection and visualization
 2. climate data collection and visualization.

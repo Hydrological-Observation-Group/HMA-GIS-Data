@@ -3,8 +3,15 @@
 
 | **lakes** | **location** | **duration** | **ref** |
 |:-------:|:-------:|:-------:|:-------:|
-| lake_name | (lon,lat) | time-time | ref |
-| lake_name | (lon,lat) | time-time | ref |
+| Zhari Namco | (85.61, 30.93) | time-time | ref |
+| Dawa Co | (84.96, 31.24) | time-time | ref |
+
+
+
+
+#### hydrological station for lake water level.  
+![hydro_station](/figures/ground-observation/hydro_station_loc.png)
+![hydro_station_time](/figures/ground-observation/hydro_station_time.png)
 
 
 #### reference:
@@ -18,5 +25,6 @@
 
 
 5. Xie, Y. (2021). Water level of Kalakuli Lake (2019). National Tibetan Plateau / Third Pole Environment Data Center. https://doi.org/10.11888/Hydro.tpdc.271167. https://cstr.cn/18406.11.Hydro.tpdc.271167.
+
 
 
