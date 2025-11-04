@@ -5,6 +5,7 @@
 |:-------:|:-------:|:-------:|:-------:|
 | Zhari Namco | (85.61, 30.93) | time-time | ref |
 | Dawa Co | (84.96, 31.24) | time-time | ref |
+| lake_name | (lon, lat) | time-time | ref |
 
 
 
