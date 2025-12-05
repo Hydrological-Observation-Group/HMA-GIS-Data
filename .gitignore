@@ -7,9 +7,9 @@ __pycache__/
 # exclude specific files and directories in data
 
 # ignore other contents in data directory
-!data/hma-extent/HMA/hma_gtng_202307_subregions.gpkg
-!data/readme.md
 data/*
+!data/readme.md
+!data/hma-extent/HMA/hma_gtng_202307_subregions.gpkg
 
 #
 **.pptx
