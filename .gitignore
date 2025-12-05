@@ -5,11 +5,10 @@ __pycache__/
 **/.DS_Store
 
 # exclude specific files and directories in data
-!data/hma-extent/
-!data/hma-extent/HMA/
+
+# ignore other contents in data directory
 !data/hma-extent/HMA/hma_gtng_202307_subregions.gpkg
 !data/readme.md
-# ignore other contents in data directory
 data/*
 
 #
