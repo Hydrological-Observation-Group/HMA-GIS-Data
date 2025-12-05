@@ -4,10 +4,14 @@ __pycache__/
 .DS_Store
 **/.DS_Store
 
-## exceed the limited storage of 50M 
-data/*
+# exclude specific files and directories in data
+!data/hma-extent/
+!data/hma-extent/HMA/
+!data/hma-extent/HMA/hma_gtng_202307_subregions.gpkg
 !data/readme.md
+# ignore other contents in data directory
+data/*
 
+#
 **.pptx
 config.py 
-
