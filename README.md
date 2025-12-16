@@ -83,8 +83,8 @@ References
 
 
 ## 7. ground observation
-### 7.1 hydrological station for lake water level.  
-![hydro_station](figures/ground-observation/hydro_station_loc.png)
+### 7.1 ground-based observation locations  
+![ground_based_observation_locations](/figures/ground-observation/ground_based_observation_loc.png)
 
 
 
