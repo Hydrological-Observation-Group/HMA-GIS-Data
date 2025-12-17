@@ -41,3 +41,26 @@
 7. Guo Y, Zhang Y, Ma N, et al. Long-term changes in evaporation over Siling Co Lake on the Tibetan Plateau and its impact on recent rapid lake expansion[J]. Atmospheric research, 2019, 216: 141-150.
 
 8. Lei Y, Yang K, Immerzeel W W, et al. Critical role of groundwater inflow in sustaining lake water balance on the Western Tibetan Plateau[J]. Geophysical Research Letters, 2022, 49(20): e2022GL099268.
+
+### glacier elevation：
+
+
+#### UAV-derived DSM (glacier surface)：
+| **glacier** | **RGI ID** | **date** | **resolution (m)** | **size (pixel)** | **geometry (EPSG:4326)** |
+|:-----------:|:----------:|:--------:|:------------------:|:----------------:|:------------------------:|
+| 24k   | RGI2000-v7.0-G-15-16601 | 20231014 | 0.035 | 35978 × 50313 | POLYGON ((95.72406 29.75652, 95.72406 29.76811, ...)) |
+| 24k   | RGI2000-v7.0-G-15-16601 | 20240712 | 0.033 | 38454 × 52468 | POLYGON ((95.72369 29.75640, 95.72369 29.76811, ...)) |
+| KQGR  | RGI2000-v7.0-G-13-61313 | 20230713 | 0.043 | 25112 × 36884 | POLYGON ((90.20499 29.85913, 90.20499 29.86917, ...)) |
+| KQGR  | RGI2000-v7.0-G-13-61313 | 20230812 | 0.044 | 25586 × 35782 | POLYGON ((90.20506 29.85860, 90.20506 29.86920, ...)) |
+| LAIGU | RGI2000-v7.0-G-15-14618 | 20230718 | 0.269 | 12536 × 15929 | POLYGON ((96.81806 29.28251, 96.81806 29.31367, ...)) |
+| LAIGU | RGI2000-v7.0-G-15-14618 | 20231017 | 0.265 | 12006 × 17449 | POLYGON ((96.82136 29.28290, 96.82136 29.31243, ...)) |
+| P4    | RGI2000-v7.0-G-15-14585 | 20230805 | 0.056 | 46282 × 33462 | POLYGON ((96.94171 29.24191, 96.94171 29.26567, ...)) |
+| P4    | RGI2000-v7.0-G-15-14585 | 20231017 | 0.054 | 50726 × 37174 | POLYGON ((96.94177 29.24047, 96.94177 29.26554, ...)) |
+
+
+#### UAV-based Glacier Observation Sites across the HMA Region:
+  ![UAV_glacier_loc](/figures/ground-observation/UAV_glacier_loc.png)
+
+
+#### reference:
+1. Yang, W. (2025). Typical glacier area drone aerial photography images, DEM and other data. National Tibetan Plateau / Third Pole Environment Data Center. https://doi.org/10.11888/Cryos.tpdc.302471. https://cstr.cn/18406.11.Cryos.tpdc.302471.
