@@ -84,8 +84,7 @@ References
 
 ## 7. ground observation
 ### 7.1 ground-based observation locations  
-![ground_based_observation_locations](/figures/ground-observation/ground_station_loc.png)
-
+![ground_observation_locations](figures/ground-observation/ground_station_loc.png)
 
 
 ## To do: 
