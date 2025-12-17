@@ -43,8 +43,6 @@
 8. Lei Y, Yang K, Immerzeel W W, et al. Critical role of groundwater inflow in sustaining lake water balance on the Western Tibetan Plateau[J]. Geophysical Research Letters, 2022, 49(20): e2022GL099268.
 
 ### glacier elevation：
-
-
 #### UAV-derived DSM (glacier surface)：
 | **glacier** | **RGI ID** | **date** | **resolution (m)** | **size (pixel)** | **geometry (EPSG:4326)** |
 |:-----------:|:----------:|:--------:|:------------------:|:----------------:|:------------------------:|
@@ -59,7 +57,7 @@
 
 
 #### UAV-based Glacier Observation Sites across the HMA Region:
-  ![UAV_glacier_loc](/figures/ground-observation/UAV_glacier_loc.png)
+  ![UAV_glacier_loc](/figures/ground-observation/glacier_station_loc.png)
 
 
 #### reference:

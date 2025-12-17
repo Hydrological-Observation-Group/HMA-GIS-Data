@@ -84,13 +84,12 @@ References
 
 ## 7. ground observation
 ### 7.1 ground-based observation locations  
-![ground_based_observation_locations](/figures/ground-observation/ground_based_observation_loc.png)
+![ground_based_observation_locations](/figures/ground-observation/ground_station_loc.png)
 
 
 
 ## To do: 
 1. Lake height data collection and visualization
 2. climate data collection and visualization.
-3. in-situ lake level collection and visualization.  
 
 
