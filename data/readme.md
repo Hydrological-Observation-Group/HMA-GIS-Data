@@ -9,10 +9,11 @@ data/
 ├── dem 
 ├── glacier-extent 
 ├── glacier-height
-├── ground-observation
+├── validation
     ├── glacier-station 
     ├── lake-bathymetry 
-    ├── water-level-station
+    ├── lake-station
+    ├── water-glacier-samples
 ├── hma-extent 
     ├── basins
     ├── HMA

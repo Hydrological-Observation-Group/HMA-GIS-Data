@@ -20,8 +20,8 @@
 
 
 #### hydrological station for lake water level.  
-![hydro_station](/figures/ground-observation/hydro_station_loc.png)
-![hydro_station_time](/figures/ground-observation/hydro_station_time.png)
+![lake_station](/figures/validation/lake_station_loc.png
+![lake_station_time](/figures/validation/lake_station_time.png)
 
 
 #### reference:
@@ -57,7 +57,7 @@
 
 
 #### UAV-based Glacier Observation Sites across the HMA Region:
-  ![UAV_glacier_loc](/figures/ground-observation/glacier_station_loc.png)
+  ![UAV_glacier_loc](/figures/validation/glacier_station_loc.png)
 
 
 #### reference:

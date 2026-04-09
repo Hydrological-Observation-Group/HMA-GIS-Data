@@ -84,11 +84,11 @@ References
 
 ## 7. ground observation
 ### 7.1 ground-based observation locations  
-![ground_observation_locations](figures/ground-observation/ground_station_loc.png)
+![ground_observation_locations](figures/validation/ground_station_loc.png)
 
 
 ## To do: 
-1. Lake height data collection and visualization
-2. climate data collection and visualization.
-3. lake bathmetry visualization(data/lake-bathymetry/Das_2025_glacier_lake_depth_level). 
+* Lake height data collection and visualization
+* climate data collection and visualization.
+* lake bathmetry visualization(data/lake-bathymetry/Das_2025_glacier_lake_depth_level). 
 
