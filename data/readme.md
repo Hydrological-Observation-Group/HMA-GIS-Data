@@ -15,8 +15,10 @@ data/
     ├── lake-station
     ├── water-glacier-samples
 ├── hma-extent 
+    ├── permafrost
     ├── basins
     ├── HMA
+    ├── basins
     ├── TPlateau
 ├── water-extent
 ├── water-height
